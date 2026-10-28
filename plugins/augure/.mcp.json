@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "augure": {
+      "type": "http",
+      "url": "https://mcp.augureai.ca/mcp",
+      "headers": { "Authorization": "Bearer ${AUGURE_MCP_KEY}" }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "augure",
+  "version": "1.0.0",
+  "description": "Use Augure (OpenAI-compatible API hosted in Canada) as an inference provider, and ask Augure's models over MCP.",
+  "author": {
+    "name": "Augure",
+    "email": "hello@augureai.ca",
+    "url": "https://augureai.ca"
+  },
+  "homepage": "https://augureai.ca/docs/agents",
+  "repository": "https://github.com/AugureAI/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "augure",
+    "canada",
+    "data-residency",
+    "openai-compatible",
+    "mcp",
+    "sovereign-ai"
+  ],
+  "privacyPolicyUrl": "https://augureai.ca/privacy"
+}

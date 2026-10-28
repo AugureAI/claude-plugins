@@ -1,0 +1,22 @@
+{
+  "name": "augure",
+  "owner": { "name": "Augure", "url": "https://augureai.ca" },
+  "metadata": {
+    "description": "Augure, the Canadian sovereign AI platform: inference-provider skill and the Augure MCP server for Claude Code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "augure",
+      "source": "./plugins/augure",
+      "description": "Use Augure (OpenAI-compatible API hosted in Canada) as an inference provider, and ask Augure's models over MCP.",
+      "version": "1.0.0",
+      "author": { "name": "Augure", "email": "hello@augureai.ca", "url": "https://augureai.ca" },
+      "homepage": "https://augureai.ca/docs/agents",
+      "repository": "https://github.com/AugureAI/claude-plugins",
+      "license": "MIT",
+      "keywords": ["augure", "canada", "data-residency", "openai-compatible", "mcp", "sovereign-ai"],
+      "category": "ai"
+    }
+  ]
+}
